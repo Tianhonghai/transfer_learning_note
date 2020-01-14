@@ -1,0 +1,1 @@
+{'method': 'CDAN-E', 'gpu': '0', 'cyc_loss_weight': 0.01, 'cla_plus_weight': 0.3, 'weight_in_loss_g': '1,0.01,0.1,0.1', 'epochs': 10, 'output_for_test': True, 'output_path': 'snapshot/digits/s2m', 'out_file': <_io.TextIOWrapper name='snapshot/digits/s2m/log_svhn_to_mnist_2019-12-05 02:49:52.561685.txt' mode='w' encoding='UTF-8'>}
